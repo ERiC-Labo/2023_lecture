@@ -1,5 +1,4 @@
 
-# Week2
 # 今週のテーマ:if文と for文を使う
 今回は, [Atcoder(ここをクリック)](https://atcoder.jp/contests/APG4b/tasks/APG4b_cq)のEX６〜EX12の問題を解き、以下の演習問題に取り組みましょう。<br>例題はとばしてもかまいませんが、演習問題を解く上で大事な内容となっています。
 
