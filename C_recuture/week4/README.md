@@ -1,5 +1,4 @@
 
-# Week4
 # 今週のテーマ:関数に慣れる
 今回は, [Atcoder(ここをクリック)](https://atcoder.jp/contests/apg4b/tasks/APG4b_ci)のE14-EX16の問題を解き、以下の演習問題に取り組みましょう。
 
