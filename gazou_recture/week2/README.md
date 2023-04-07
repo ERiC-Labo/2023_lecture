@@ -14,7 +14,7 @@ input_imgのimg1.jpgを以下のうち１つののフィルタを適用[参考�
 ・Sobel<br>
 ・Canny(week1を参考に！)
 
-# STEP 3 :鮮鋭化とエッジを保存した平滑化　ディジタル画像処理p121-130
+# STEP 3:鮮鋭化とエッジを保存した平滑化　ディジタル画像処理p121-130
 input_imgのimg2.jpgに以下すべての処理を実行し、保存しましょう。これらの方法は各自検索してください。自分で調べることは大切です。<br>
 ・Bilateral filter<br>
 ・NLMeansFilter<br>
