@@ -1,5 +1,3 @@
-
-# Week3
 # 今週のテーマ:配列に慣れる
 今回は, [Atcoder(ここをクリック)](https://atcoder.jp/contests/APG4b/tasks/APG4b_cj)のE13,EX18の問題を解き、以下の演習問題に取り組みましょう。
 
