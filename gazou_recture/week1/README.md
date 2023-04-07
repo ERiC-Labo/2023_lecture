@@ -84,4 +84,4 @@ cv::CannyでCanny法によるエッジ検出ができます。元画像、出力
 (cv::Cannyの公式ドキュメント)[https://docs.opencv.org/4.x/dd/d1a/group__imgproc__feature.html#ga04723e007ed888ddf11d9ba04e2232de]
 
 **最後に、今日の内容をpythonで書き換えてみましょう。**<br>研究ではpythonも使うのでなれておきましょう！
-<br>お疲れ様でした。
+
