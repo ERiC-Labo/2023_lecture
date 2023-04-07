@@ -1,5 +1,5 @@
 
-# Week1（SETEP1-3）
+# Week1（SETEP1-）
 # STEP 1 : 画像を表示してみよう
 
 OpenCVは画像を簡単に扱うことができるライブラリです。
@@ -75,7 +75,7 @@ int main()
 ```
 ・cv::cvtColorとは、画像の色を別の形式へ変換するものです。元の画像、変換後の画像、変換方法の3つを引数に取ります。
 
-# STEP3:STEP 3 : 直線を検出してみよう
+# SSTEP 3 : 直線を検出してみよう
 色を変更することにとどまらず、OpenCVを使えば様々なことが関数1つでできます。ここでは、画像から直線を検出してみましょう。<br>まずは、Canny法によるエッジ検出をしてみます。たった1行で書けます。
 ```
 cv::Canny(img, img_canny, 500.0, 700.0);
@@ -83,6 +83,8 @@ cv::Canny(img, img_canny, 500.0, 700.0);
 cv::CannyでCanny法によるエッジ検出ができます。元画像、出力画像、閾値2つ、の計4つの引数を持ちます。
 (cv::Cannyの公式ドキュメント)[https://docs.opencv.org/4.x/dd/d1a/group__imgproc__feature.html#ga04723e007ed888ddf11d9ba04e2232de]
 
-# STEP4 pythonで書き換えよう
+本日はここまでですが、余力のある人はSTPE４に進んでください。
+
+# STEP4 ：　pythonで書き換えよう
 今日のSTEP１~3までをpythonで書き換えてみましょう。<br>研究ではpythonも使うのでなれておきましょう！
 
