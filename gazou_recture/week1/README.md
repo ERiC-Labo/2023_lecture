@@ -83,5 +83,5 @@ cv::Canny(img, img_canny, 500.0, 700.0);
 cv::CannyでCanny法によるエッジ検出ができます。元画像、出力画像、閾値2つ、の計4つの引数を持ちます。
 (cv::Cannyの公式ドキュメント)[https://docs.opencv.org/4.x/dd/d1a/group__imgproc__feature.html#ga04723e007ed888ddf11d9ba04e2232de]
 
-**次に、今日の内容をpythonで書き換えてみましょう。**<br>自分で調べてみてください。頑張ってください！
+**最後に、今日の内容をpythonで書き換えてみましょう。**<br>研究ではpythonも使うのでなれておきましょう！
 <br>お疲れ様でした。
