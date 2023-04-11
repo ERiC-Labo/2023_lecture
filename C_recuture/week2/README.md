@@ -24,7 +24,7 @@
 <br>条件③：演習終了後、先輩に確認をもらってください。（コンパイルやstdをきちんと使うことに注意）
 <br>条件④：演習問題を４問を解くこと。
 <br>条件⑤：atcorderで、提出し合否判定を行う。
-　　手順
-  　１．[atcorderに登録する](https://atcoder.jp/register?continue=https%3A%2F%2Fatcoder.jp%2Fhome)
-    2.  各問題のURLからコードを提出してください。（C++,GCC9.2.1という言語を選択）
+　　手順<br>
+  　１．[atcorderに登録する](https://atcoder.jp/register?continue=https%3A%2F%2Fatcoder.jp%2Fhome)<br>
+    2.  各問題のURLからコードを提出してください。（C++,GCC9.2.1という言語を選択）<br>
     3. ACで合格、他は不合格です。
