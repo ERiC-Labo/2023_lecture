@@ -25,7 +25,7 @@ int main()
 以上のコードをC++ファイルに書き、ターミナルで実行しましょう。(C輪講の資料を参考にコンパイルから行う)<br>・cv::Matとは、画像を保存できる変数の型です。
 <br>・cv::imreadという関数で、画像ファイルをcv::Matへ変換します。実行場所から画像への相対パスを引数に持ちます。
 <br>・cv::imshowという関数で、cv::Matを表示することができます。
--コンパイルするためにCMakeLists.txtを書きます。
+
 ```
 cmake_minimum_required(VERSION 2.8.3)
 project(step1)
