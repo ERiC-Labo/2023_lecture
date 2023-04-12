@@ -2,7 +2,7 @@
 まずは, C_rectureのREADMEをよく見てくだい。そして、下の方にある**演習完了の条件**を確認してください。<br>次に、[Atcoder（ここをクリック）](https://atcoder.jp/contests/APG4b/tasks/APG4b_cv)のEX1〜EX5の例題を解いてください.終わったら、下の課題を少なくとも4問取り組みましょう。<br>最初は難しく感じると思いますが、わからないことは調べることや先輩に聞くことで**最後まで終わらせましょう！！**
 
 以下の演習問題５問を解いてみましょう。<br>
-[1. kcal](https://atcoder.jp/contests/abc205/editorial/2039):2つの整数を受け取り、計算し出力する。
+[1. kcal](https://atcoder.jp/contests/abc205/tasks/abc205_a):2つの整数を受け取り、計算し出力する。
 
 [2. Apple](https://atcoder.jp/contests/abc265/tasks/abc265_a)：３つの整数を受け取り、[条件分岐](https://itsakura.com/cpp-if)をし出力する。
 
