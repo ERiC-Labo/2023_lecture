@@ -6,7 +6,7 @@
 
 [2. Apple](https://atcoder.jp/contests/abc265/tasks/abc265_a)：３つの整数を受け取り、[条件分岐](https://itsakura.com/cpp-if)をし出力する。
 
-[3. Horizon](https://atcoder.jp/contests/abc239/editorial/3363):平方根を使ってみましょう。C++での平方根の使い方は調べてみよう！
+[3. Horizon](https://atcoder.jp/contests/abc239/tasks/abc239_a):平方根を使ってみましょう。C++での平方根の使い方は調べてみよう！
 
 [4. Battle](https://atcoder.jp/contests/abc164/tasks/abc164_b):４つの整数を受け取り、計算します。
 
