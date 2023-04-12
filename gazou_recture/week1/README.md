@@ -30,8 +30,8 @@ int main()
 
 ```
 cmake_minimum_required(VERSION 2.8.3)
-project(step1)
-set(SOURCE_FILE main.cpp)
+project(step1)**←変更**
+
 
 # OpenCVのビルド環境の設定ファイルを読み込む
 find_package(OpenCV REQUIRED)
@@ -42,12 +42,13 @@ include_directories(
 )
 
 # 実行ファイル名を設定
-add_executable(main
-    ${SOURCE_FILE}
+add_executable(
+    ${PROJECT_NAME} first.cpp**←変更**
 )
 
 # リンクするライブラリを読み込む
-target_link_libraries(main
+target_link_libraries(
+    ${PROJECT_NAME}
     ${OpenCV_LIBRARIES}
 )
 ```
