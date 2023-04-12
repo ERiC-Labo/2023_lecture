@@ -30,7 +30,7 @@ int main()
 
 ```
 cmake_minimum_required(VERSION 2.8.3)
-project(step1)**←変更**
+project(プロジェクト名)**←変更**
 
 
 # OpenCVのビルド環境の設定ファイルを読み込む
