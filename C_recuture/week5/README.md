@@ -27,4 +27,6 @@
 研究するテーマについては先輩たちと話し合って決めてください。（できる限り被らないテーマで行ってみましょう！）
 
 **プチ研究の例**
-/home/ericlab/ビデオ/C_rin.mp4
+
+https://user-images.githubusercontent.com/124654406/232194713-5dcf26c1-919b-434b-b93f-0e8778028e14.mp4
+
