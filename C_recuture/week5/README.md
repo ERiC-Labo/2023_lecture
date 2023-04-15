@@ -29,4 +29,5 @@
 **プチ研究の例**
 
 https://user-images.githubusercontent.com/124654406/232194713-5dcf26c1-919b-434b-b93f-0e8778028e14.mp4
+手法としては、画像輪講week3の内容で重心位置の情報を把持位置としています。
 
