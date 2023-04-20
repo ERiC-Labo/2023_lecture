@@ -14,7 +14,7 @@ input_imgのimg1とimg2について、大津の2値化を適用し、otu_img1.jp
 input_imgのimg3について適切な3値化を行い、triangulated_imgという名前で保存しましょう。<br>
 
 
-以上のSTEPを終えると、<br>
+---以上のSTEPを終えると、<br>
 ・binary_img1.jpg<br>
 ・binary_img2.jpg<br>
 ・otu_img1.jpg<br>
