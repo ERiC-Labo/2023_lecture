@@ -6,13 +6,7 @@
 
 [2. Buffet](https://atcoder.jp/contests/abc140/tasks/abc140_b)：
 
-[3. Resale](https://atcoder.jp/contests/abc125/tasks/abc125_b):
-
-[4. ASCII Art](https://atcoder.jp/contests/abc294/tasks/abc294_b):
-
-ここまでは、皆さん問いて下さい。時間が余った人は以下の問いに取り組んでください。
-
-[5. Fianl Day](https://atcoder.jp/contests/abc228/tasks/abc228_c):
+[3. 去年のweek1](https://github.com/ERiC-Labo/2022_C_recture/tree/main/week1):去年今のM1は苦戦しました。
 
 **演習完了の条件**
 <br>条件①：using namespace std（例題などでよく使われるもの） は使用禁止です。
