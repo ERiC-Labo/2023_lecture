@@ -1,9 +1,10 @@
-# 今週のテーマ:２値化や多値化
+# 今週のテーマ:２値化と多値化
 
 # STEP1:単純な2値化
 input_imgのimg1とimg2について閾値を自分で決め、適切な2値化を考えてみましょう。<br>
-処理した画像の名前をbinary_img1.jpg,binary_img2.jpgと名付け、保存しましょう。<br>
-（カラー画像はグレースケールが有効です）
+img1に処理した画像の名前をbinary_img1.jpg,binary_img2.jpgと名付け、保存しましょう。<br>
+何度か閾値を変更して、いい塩梅の画像を見つけましょう。
+
 # STP2:大津の2値化
 input_imgのimg1とimg2について、大津の2値化を適用し、otu_img1.jpg,otu_img2.jpgと名付けましょう<br>
 そして、binary_img1.jpgとotu_img1.jpgを横に結合して表示し、concat_img.jpgという名前で保存しましょう。<br>
