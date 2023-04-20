@@ -11,7 +11,7 @@ input_imgのimg1とimg2について、大津の2値化を適用し、otu_img1.jp
 
 。手法は問いません。<br>
 # STEP3:3値化
-input_imgのimg3について適切な3値化を行い、triangulated_imgという名前で保存しましょう。<br>br
+input_imgのimg3について適切な3値化を行い、triangulated_img.jpgという名前で保存しましょう。<br>br
 
 # 確認
 以上のSTEPを終えると、<br>
@@ -21,5 +21,5 @@ input_imgのimg3について適切な3値化を行い、triangulated_imgとい�
 ・otu_img2.jpg<br>
 ・concat.jpg<br>
 ・clear_img.jpg<br>
-・triangulated_img<br>
+・triangulated_img.jpg<br>
 以上の７枚の画像が保存されていると思います。先輩に７枚の画像を確認してもらい、演習は終了です。
