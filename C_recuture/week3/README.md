@@ -6,7 +6,7 @@
 
 [2. Buffet](https://atcoder.jp/contests/abc140/tasks/abc140_b)：
 
-[3. 去年のweek1](https://github.com/ERiC-Labo/2022_C_recture/tree/main/week1):去年今のM1は苦戦しました。
+[3. 去年のweek1](https://github.com/ERiC-Labo/2022_C_recture/tree/main/week1):去年今のM1はこの問題から一年が始まりました。
 
 **演習完了の条件**
 <br>条件①：using namespace std（例題などでよく使われるもの） は使用禁止です。
