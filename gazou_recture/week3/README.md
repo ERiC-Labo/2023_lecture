@@ -12,8 +12,8 @@ input_imgのimg1とimg2について、大津の2値化を適用し、otu_img1.jp
 どのような画像にて、大津の２値化は有効ではないのでしょうか。
 
 # STEP3:多値化
-input_imgのimg3について適切な3値化を行い、triangulated_img.jpgという名前で保存しましょう。<br>
-さらに、img3について適切な5値化を行い、pentanalized_img.jpgという名前で保存しましょう。<br>
+input_imgのimg3について適切な3値化を行い、triangulated_img.pngという名前で保存しましょう。<br>
+さらに、img3について適切な5値化を行い、pentanalized_img.pngという名前で保存しましょう。<br>
 
 
 # 確認
@@ -21,5 +21,5 @@ input_imgのimg3について適切な3値化を行い、triangulated_img.jpgと�
 ・binary_img1.jpg, binary_img2.jpg<br>
 ・otu_img1.jpg, otu_img2.jpg<br>
 ・concat1_img.jpg, concat2_img.jpg<br>
-・triangulated_img.jpg , pentanalized_img.jpg<br>
+・triangulated_img.png , pentanalized_img.png<br>
 以上の8枚の画像が保存されていると思います。先輩に8枚の画像を確認してもらい、演習は終了です。
