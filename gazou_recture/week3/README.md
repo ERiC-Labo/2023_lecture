@@ -10,7 +10,7 @@ input_imgのimg1とimg2について、大津の2値化を適用し、otu_img1.jp
 そして、binary_img1.jpgとotu_img1.jpgを横に結合して表示し、concat_img.jpgという名前で保存しまし<br>
 ノイズ除去の手法は問いません。<br>
 
-# STEP3:3値化
+# STEP3:多値化
 input_imgのimg3について適切な3値化を行い、triangulated_img.jpgという名前で保存しましょう。<br>
 さらに、img3について適切な5値化を行い、pentanalized_img.jpgという名前で保存しましょう。<br>
 
