@@ -9,8 +9,11 @@ img1に処理した画像の名前をbinary_img1.jpg,binary_img2.jpgと名付け
 input_imgのimg1とimg2について、大津の2値化を適用し、otu_img1.jpg,otu_img2.jpgと名付けましょう<br>
 そして、binary_img1.jpgとotu_img1.jpgを横に結合して表示し、concat_img.jpgという名前で保存しまし<br>
 ノイズ除去の手法は問いません。<br>
+
 # STEP3:3値化
-input_imgのimg3について適切な3値化またはそれ以上の多値化を行い、triangulated_img.jpgという名前で保存しましょう。<br>
+input_imgのimg3について適切な3値化を行い、triangulated_img.jpgという名前で保存しましょう。<br>
+さらに、img3について適切な5値化を行い、pentanalized_img.jpgという名前で保存しましょう。<br>
+
 
 # 確認
 以上のSTEPを終えると、<br>
@@ -21,4 +24,5 @@ input_imgのimg3について適切な3値化またはそれ以上の多値化を
 ・concat.jpg<br>
 ・clear_img.jpg<br>
 ・triangulated_img.jpg<br>
-以上の７枚の画像が保存されていると思います。先輩に７枚の画像を確認してもらい、演習は終了です。
+・pentanalized_img.jpg<br>
+以上の8枚の画像が保存されていると思います。先輩に8枚の画像を確認してもらい、演習は終了です。
