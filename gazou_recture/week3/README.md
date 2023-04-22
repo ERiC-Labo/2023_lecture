@@ -20,6 +20,6 @@ input_imgのimg3について適切な3値化を行い、triangulated_img.jpgと�
 以上のSTEPを終えると、<br>
 ・binary_img1.jpg, binary_img2.jpg<br>
 ・otu_img1.jpg, otu_img2.jpg<br>
-・concat1_img.jpg, concat2_img.jpg
+・concat1_img.jpg, concat2_img.jpg<br>
 ・triangulated_img.jpg , pentanalized_img.jpg<br>
 以上の8枚の画像が保存されていると思います。先輩に8枚の画像を確認してもらい、演習は終了です。
