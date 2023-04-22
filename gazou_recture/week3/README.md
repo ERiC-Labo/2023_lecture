@@ -22,4 +22,5 @@ input_imgのimg3について適切な3値化を行い、triangulated_img.pngと�
 ・otu_img1.jpg, otu_img2.jpg<br>
 ・concat1_img.jpg, concat2_img.jpg<br>
 ・triangulated_img.png , pentanalized_img.png<br>
-以上の8枚の画像が保存されていると思います。先輩に8枚の画像を確認してもらい、演習は終了です。
+以上の8枚の画像が保存されていると思います。
+出力される画像がバラバラだと見にくいので、フォルダにまとめておきましょう。<br>先輩に8枚の画像を確認してもらい、演習は終了です。
