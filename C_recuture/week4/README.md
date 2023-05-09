@@ -8,7 +8,7 @@
 
 [2. EX15](https://atcoder.jp/contests/apg4b/tasks/APG4b_ch):
 
-[4. ]():
+[3. クラス]:
 
 ここまでは、皆さん問いて下さい。時間が余った人は以下の問いに取り組んでください。
 
