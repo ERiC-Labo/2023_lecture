@@ -1,14 +1,14 @@
 
 # 今週のテーマ:関数に慣れる
 
-以下の５問を解いてみましょう。<br>
+以下の3問を解いてみましょう。<br>
 [1. EX14](https://atcoder.jp/contests/apg4b/tasks/APG4b_ci):
 
 [解説](https://atcoder.jp/contests/apg4b/tasks/APG4b_p)こちらをよく読んで下さい。
 
 [2. EX15](https://atcoder.jp/contests/apg4b/tasks/APG4b_ch):
 
-3.クラス
+3.クラスについての問題です。以下を読んで下さい
 ~~~cpp
 int main ()
 {
