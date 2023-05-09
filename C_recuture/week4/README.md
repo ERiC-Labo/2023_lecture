@@ -9,7 +9,14 @@
 [2. EX15](https://atcoder.jp/contests/apg4b/tasks/APG4b_ch):
 
 [3. クラス]:
-
+cpp~~
+int main ()
+{
+    Triangle t;
+    t.assign(18,24.5);
+    t.display();
+}
+~~~
 ここまでは、皆さん問いて下さい。時間が余った人は以下の問いに取り組んでください。
 
 [5. ]():
