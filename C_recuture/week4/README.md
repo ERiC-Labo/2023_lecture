@@ -9,7 +9,7 @@
 [2. EX15](https://atcoder.jp/contests/apg4b/tasks/APG4b_ch):
 
 [3. クラス]:
-cpp~~
+~~~cpp
 int main ()
 {
     Triangle t;
