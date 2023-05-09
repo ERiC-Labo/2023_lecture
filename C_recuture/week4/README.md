@@ -8,7 +8,7 @@
 
 [2. EX15](https://atcoder.jp/contests/apg4b/tasks/APG4b_ch):
 
-[3. クラス]:
+3.クラス
 ~~~cpp
 int main ()
 {
