@@ -3,7 +3,7 @@
 AI_rinという名前のフォルダを作り、**各週のフォルダや各演習のファイルは分けて**、見やすいようにしましょう。<br>
 演習問題は特に、研究に活かされます。各演習を終えたら、機械学習の勉強のために<br>
 ・kaggle:https://www.kaggle.com/<br>
-・sigate:https://signate.jp/<b>
+・sigate:https://signate.jp/<br>
 ・nishika:https://www.nishika.com/<br>
 を一緒にしましょう！
 
